@@ -3,15 +3,15 @@
   "description": "<Il personaggio principale è colpito da una rara condizione che colpisce solo due persone in tutto il mondo, la bulimia. Organizza i suoi pasti quotidiani per sopravvivere, ma la sua speranza di sopravvivenza si affievolisce con il passare dei giorni. Consulta un medico, che gli suggerisce di giocare al gioco della realtà alternativa "Athenae", dove può mangiare quanto vuole senza ingrassare. Gioca per salvarsi la vita e crescere in forza non facendo altro che mangiare! Una vita fantastica da gourmet!>",
   "artist": "<Koge>",
   "author": "<PARK Min Gyu>",
-  "cover": "<https://imgur.com/a/IIWGoMI>",
+  "cover": "<https://imgur.com/a/P6NvcQv>",
   "chapters": {
-    "<Capitolo 1>": {
+    "<1>": {
       "title": "<Riunione>",
       "volume": "<volume number>",
       "groups": {
         "<SevenTranslations>": "/proxy/api/imgur/chapter/<10310948>/"
       },
       "last_updated": "1616368746"
-    }
+    },
   }
 }
