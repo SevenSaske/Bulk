@@ -1,17 +1,17 @@
 {
-  "title": "<Levelin Up, By only Eating>",
-  "description": "<Il personaggio principale è colpito da una rara condizione che colpisce solo due persone in tutto il mondo, la bulimia. Organizza i suoi pasti quotidiani per sopravvivere, ma la sua speranza di sopravvivenza si affievolisce con il passare dei giorni. Consulta un medico, che gli suggerisce di giocare al gioco della realtà alternativa "Athenae", dove può mangiare quanto vuole senza ingrassare. Gioca per salvarsi la vita e crescere in forza non facendo altro che mangiare! Una vita fantastica da gourmet!>",
-  "artist": "<Koge>",
-  "author": "<PARK Min Gyu>",
-  "cover": "<https://imgur.com/a/P6NvcQv>",
+  "title": "Leveling Up, By Only Eating!",
+  "description": "Il personaggio principale è colpito da una rara condizione che colpisce solo due persone in tutto il mondo, la bulimia. Organizza i suoi pasti quotidiani per sopravvivere, ma la sua speranza di sopravvivenza si affievolisce con il passare dei giorni. Consulta un medico, che gli suggerisce di giocare al gioco della realtà alternativa "Athenae", dove può mangiare quanto vuole senza ingrassare. Gioca per salvarsi la vita e crescere in forza non facendo altro che mangiare! Una vita fantastica da gourmet!",
+  "artist": "Koge",
+  "author": "PARK Min Gyu",
+  "cover": "https://imgur.com/a/IIWGoMI",
   "chapters": {
-    "<1>": {
-      "title": "<Riunione>",
-      "volume": "<volume number>",
+    "62": {
+      "title": "Riunione",
+      "volume": "1",
       "groups": {
-        "<SevenTranslations>": ""/proxy/api/imgur/chapter/<P6NvcQv>/"
+        "TSP": "/proxy/api/imgur/chapter/P6NvcQv/"
       },
-      "last_updated": "1616368746"
-    },
+      "last_updated": "1617704888"
+    }
   }
 }
