@@ -5,6 +5,14 @@
    "author":"Park Min Gyu",
    "cover":"https://i.imgur.com/X4nXjRk.jpg",
    "chapters":{
+"60": {
+      "title": "Raid",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Y0OViky/"
+      },
+      "last_updated": "1616368746"
+    },
 "61": {
       "title": "Resistere",
       "volume": "1",
