@@ -1,0 +1,57 @@
+{
+  "title": "Tale of a Scribe Who Retires to the Countryside",
+  "description": "Uno studente che non ha superato gli esami nazionali viene raccolto da un maestro di arti marziali e gli viene assegnato il compito di registrare la sua vita in un libro. Durante il loro viaggio, Son Bin incontra molte persone fantastiche e presto si ritrova a seguire lo stesso percorso del maestro, come il Re delle Arti Marziali.",
+  "artist": "Studio Redice",
+  "author": "Barking Dog",
+  "cover": "https://i.imgur.com/K42DwYR.jpg",
+  "chapters": {
+    "1": {
+      "title": "Prologo",
+      "volume": "0",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/SFyYHZk/"
+      },
+      "last_updated": "1616368746"
+    },
+"1": {
+      "title": "Lo Studente Di Letteratura Fallito",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/ltsrzxf/"
+      },
+      "last_updated": "1616368746"
+    },
+"2": {
+      "title": "Se Nessuno Sa Qualcosa È Come Se Non Fosse Mai Successo",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/vpPv6xw/"
+      },
+      "last_updated": "1616368746"
+    },
+"3": {
+      "title": "Cosa Era Successo a Muhan",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/VbvPB6T/"
+      },
+      "last_updated": "1616368746"
+    },
+"4": {
+      "title": "4 Stelle Di Murim",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/CiN76BD/"
+      },
+      "last_updated": "1616368746"
+    },
+"5": {
+      "title": "La Spada Che Brilla Al Chiaro Di Luna",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/5bF0EoB/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
