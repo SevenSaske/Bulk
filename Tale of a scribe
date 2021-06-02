@@ -205,7 +205,7 @@
       },
       "last_updated": "1616368746"
     },
-    "25": {
+"25": {
       "title": "Nessuno camminerà per te",
       "volume": "1",
       "groups": {
@@ -213,5 +213,43 @@
       },
       "last_updated": "1616368746"
     }
-  }
-}
+"26": {
+      "title": "la montagna innevata del drago di giada",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/94feVZD/"
+      },
+      "last_updated": "1616368746"
+    }
+"27": {
+      "title": "Re dei pugni d'acciaio insanguinati",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/3E92Skx/"
+      },
+      "last_updated": "1616368746"
+    }
+"28": {
+      "title": "Sword Dancer",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/Nt7SJtM/"
+      },
+      "last_updated": "1616368746"
+    }
+"29": {
+      "title": "Abbattere",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/eoSTwd6/"
+      },
+      "last_updated": "1616368746"
+    }
+"30": {
+      "title": "Jade Dragon's Reverse Scale Slash",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/hw2awh6/"
+      },
+      "last_updated": "1616368746"
+    }
