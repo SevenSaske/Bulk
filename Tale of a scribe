@@ -300,7 +300,7 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/1YytY56/"
       },
       "last_updated": "1616368746"
-    }
+    },
 "37": {
       "title": "Il tempo dei bambini",
       "volume": "1",
@@ -308,7 +308,7 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/bHrldGv/"
       },
       "last_updated": "1616368746"
-    }
+    },
 "38": {
       "title": "Non voglio Twin Palms",
       "volume": "1",
@@ -316,7 +316,7 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/jhXqyql/"
       },
       "last_updated": "1616368746"
-    }
+    },
 "39": {
       "title": "Un tifone in una tazzina da the",
       "volume": "1",
@@ -324,7 +324,7 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/dhtFS6W/"
       },
       "last_updated": "1616368746"
-    }
+    },
 "40": {
       "title": "Un visitatore inaspettato",
       "volume": "1",
@@ -332,7 +332,7 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/HBEw5g1/"
       },
       "last_updated": "1616368746"
-    }
+    },
 "41": {
       "title": "Motto",
       "volume": "1",
@@ -340,7 +340,7 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/PoldaT7/"
       },
       "last_updated": "1616368746"
-    }
+    },
 "42": {
       "title": "Stella del Trasporto",
       "volume": "1",
@@ -348,7 +348,7 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/W7jiOVD/"
       },
       "last_updated": "1616368746"
-    }
+    },
 "43": {
       "title": "La spada che si illumina sotto il chiaro di luna",
       "volume": "1",
@@ -356,7 +356,7 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/kF1KSHP/"
       },
       "last_updated": "1616368746"
-    }
+    },
 "44": {
       "title": "Attacco",
       "volume": "1",
@@ -364,7 +364,7 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/AksLW1h/"
       },
       "last_updated": "1616368746"
-    }
+    },
 "45": {
       "title": "Salvatore",
       "volume": "1",
@@ -372,4 +372,46 @@
         "SevenTranslations": "/proxy/api/imgur/chapter/MxhgCjQ/"
       },
       "last_updated": "1616368746"
+    },
+"46": {
+      "title": "Intensificazione",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/TcUae1Q/"
+      },
+      "last_updated": "1616368746"
+    },
+"47": {
+      "title": "Noh Goon di Nanyue",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/MgDl6B6/"
+      },
+      "last_updated": "1616368746"
+    },
+"48": {
+      "title": "La spada del senza titolo",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/OTkgLWP/"
+      },
+      "last_updated": "1616368746"
+    },
+"49": {
+      "title": "Venom Blade",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/Oj7sQOa/"
+      },
+      "last_updated": "1616368746"
+    },
+"50": {
+      "title": "Illuminazione",
+      "volume": "1",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/1NibD0v/"
+      },
+      "last_updated": "1616368746"
     }
+  }
+}
